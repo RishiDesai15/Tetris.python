@@ -10,9 +10,9 @@ Score System: Points are awarded for each cleared line, and additional points ma
 **Game Dynamics:**
 Tetriminos fall from the top of the screen one at a time, and the player must move and rotate them to fit into gaps on the board.
 When a line is complete, it disappears, and any blocks above it move down to fill the gap.
-As the game progresses, Tetriminos fall faster, increasing the difficulty.
+As the game progresses, Tetriminos falls faster, increasing the difficulty.
 
-**Learning Opportunities:**
+**Skills Learned and Developed:**
 
 **Data Structures:**
 Utilize 2D arrays or lists to represent and manipulate the game board.
